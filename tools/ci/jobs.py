@@ -31,7 +31,8 @@ job_path_map = {
                      "html/",
                      "offscreen-canvas/"],
     "wpt_integration": ["tools/"],
-    "wptrunner_infrastructure": ["tools/"],
+    "wptrunner_infrastructure": ["tools/",
+                                 "infrastructure/"],
 }
 
 
